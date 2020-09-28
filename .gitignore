@@ -1,1 +1,4 @@
 .localstack
+.DS_Store
+fn-js-hello-world/lambda.zip
+response.json
